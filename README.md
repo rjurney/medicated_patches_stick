@@ -15,6 +15,8 @@ What am I doing writing it then? Hospice. I’ve been a caretaker in a difficult
 <br /><br />
 <i>Sometimes there seems no good place to place a medicated patch :(</i>
 </center>
+<br />
+<br />
 
 Despite being licensed under expensive patents, medicated patch mechanisms aren’t effective for everyone. Reasons a patch may not stick to you include:
 
