@@ -14,7 +14,7 @@ What am I doing writing it then? Hospice. I’ve been a caretaker in a difficult
     <img src="https://github.com/user-attachments/assets/c86a2069-9cf2-4fbb-b7da-7c838f079bf8" alt="Patch sites: upper arm, upper chest, upper back, side of chest">
 </p>
 <p>
-    <em>Sometimes there seems to be no good place to place a medicated patch :(</em>
+    <center><em>Sometimes there seems to be no good place to place a medicated patch :(</em></center>
 </p>
 
 Despite being licensed under expensive patents, medicated patch mechanisms aren’t effective for everyone. Reasons a patch may not stick to you include:
