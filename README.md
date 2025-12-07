@@ -2,6 +2,8 @@
 
 This post outlines a foolproof method [given to me by a hospice nurse but useful to me for chronic pain] for ensuring that medicated patches stick to… people like me to whom they will not stick :) I will try to avoid the use of the words ‘hairy’, ‘scaly’, ‘sweaty’ or ‘oily’ for the rest of this post, but as the instructional images may show… these things can be a factor. My own experience is with the Butrans patch for chronic pain, so the images in this post show a larger patch.
 
+Note: this post originally appeared on the [Data Syndrome Blog](https://blog.datasyndrome.com/make-medicated-adhesive-patches-stick-period-4e9720536f5).
+
 ## Medical Disclaimer and Frank Warning
 
 In this post there is helpful advice from what seems like a nice man, a list of easy-to-order, linked supplies, step-wise photographs [he must have spent some time on] and even helpful diagrams. Do not mistake this for medical advice. This post is not medical advice. Stated frankly: according to the manufacturer of the fentanyl patch, the method outlined wherein [while it attempts to mitigate the problem] may cause an increase in the amount of medication delivered which could induce opioid overdose.
