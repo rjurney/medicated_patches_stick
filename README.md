@@ -56,25 +56,25 @@ To the storehouse! You will need the following supplies. I don’t profit from t
 If your patch is changed weekly and you alternate sites, you will need to scrub one site during the off week to clean off the adhesive from last week’s patch. If that bothers you, adhesive removal.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/e5937ba0-8b5b-46a1-bcc0-78200eb10af0" />
-<br />*A poor, hairy, soapy, [somewhat] disabled arm :(*
+<br />*A poor, hairy, soapy, [somewhat] disabled arm :(*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/71b9db0d-fc3a-4527-89cc-294699edcb4d" />
-<br />*You do use soap, don’t you? Thoroughly dry the area with a dry towel when you are done.*
+<br />*You do use soap, don’t you? Thoroughly dry the area with a dry towel when you are done.*<br /><br />
 
 * I use one of the large alcohol prep pads to scrub the patch application area. Fold the wipe over and spread across fingers. Pinch in fingers at either end and scrub. Turn over and repeat.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d085ee57-f86a-4ed1-accc-30b7eb6944bc" />
-<br />*A single Winner Large Alcohol Prep Pad. And a bathtub.*
+<br />*A single Winner Large Alcohol Prep Pad. And a bathtub.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/c2416a27-1010-406b-a624-9facc64cd186" />
-<br />*You can see the dirt it is taking off on the pad. Use both sides.*
+<br />*You can see the dirt it is taking off on the pad. Use both sides.*<br /><br />
 
 At this point in the instructions, I’ve got a problem. I have put alcohol on my skin and that can dissolve the adhesive matrix where the drug is contained, releasing extra in my system. Shaving the skin bare didn’t help the situation. Here comes our blow-dryer to make it all OK :) Mostly.
 
 * I use my mini blowdryer [I love the linked blowdryer. I don’t own it, but I mean the look of it! And the price! Why didn’t I setup commercial links for this blockbuster hospice post?] for a minute or two to heat the area on low. If you’re a chronic pain patient or a masochist, your high pain threshold may result in the image below where the blowdryer is on high and your arm gets nice and… toasty.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/f91697ae-ff33-4f61-8a37-fb35ded035c7" />
-<br />*Blowdrying the patch application site to remove any remaining alcohol from the alcohol prep pad scrub I gave it*
+<br />*Blowdrying the patch application site to remove any remaining alcohol from the alcohol prep pad scrub I gave it*<br /><br />
 
 * I wait a few minutes for the skin to cool before I apply the patch because hot skin can make the patch dump extra medication.
 
@@ -89,19 +89,19 @@ For some people, some adhesive may still build up as weeks pass. Not everyone ca
 Applying the patch is just like the instructions on the box. Take off the big part of the backing, stick it on, peel the little backing off and make it stick too. Press the whole patch with your flat hand and also run your pointed fingers along all areas of the patch. Be good, and thorough.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/00d9d580-d5ac-4129-8821-697f0db28614" />
-<br />*Butrans patch with most of the backing removed*
+<br />*Butrans patch with most of the backing removed*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3f4a4824-4631-456b-9f03-efaa736f2998" />
-<br />*Begin to stick the patch, using the unremoved backing as a grip*
+<br />*Begin to stick the patch, using the unremoved backing as a grip*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7aff85c4-c9f4-484b-8233-91c5de7f0572" />
-<br />*Remove the small backing and stick that too*
+<br />*Remove the small backing and stick that too*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8799336a-6bba-4b08-8246-5371312e9a85" />
-<br />*Mushing the patch with a flat hand*
+<br />*Mushing the patch with a flat hand*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/74ae5012-2d3f-4c02-88c5-b18c233de385" />
-<br />*Use pointed fingers to press hard and seal the adhesive in place*
+<br />*Use pointed fingers to press hard and seal the adhesive in place*<br /><br />
 
 ## Covering the Patch
 
