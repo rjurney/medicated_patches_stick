@@ -108,22 +108,22 @@ Applying the patch is just like the instructions on the box. Take off the big pa
 The above still wasn’t enough for me. I was losing patches, they would start to fold, so I added a 3M Tegaderm cover to the recipe.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/f0e2953a-438b-4456-a49f-79c55715f786" />
-<br />*Grip the 3M Tegaderm roll firmly.*
+<br />*Grip the 3M Tegaderm roll firmly.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4a6fef2d-f23f-4add-be67-8c97715fedee" />
-<br />*Cut a portion of the roll off into a sheet sized about 1" larger on all sides than the diameter of your patch. It always takes more than you realize, so portion liberally.*
+<br />*Cut a portion of the roll off into a sheet sized about 1" larger on all sides than the diameter of your patch. It always takes more than you realize, so portion liberally.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2040a958-5692-4c9b-8c89-620d2a00e5c9" />
-<br />*Cut off the corners to avoid any rolling up. Yes, this happened to me. A single angled cut across is fine.*
+<br />*Cut off the corners to avoid any rolling up. Yes, this happened to me. A single angled cut across is fine.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/195a5c29-dad4-4b00-8eaf-e49cc98c6a43" />
-<br />*The cut-out patch sheet [note the fancy round cuts that ignore the backing plate] should look something like this.*
+<br />*The cut-out patch sheet [note the fancy round cuts that ignore the backing plate] should look something like this.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/81effcc1-118a-4a2f-8aaf-15c1acf9fd47" />
-<br />*I peel the correct backing off of the cover. You may waste one figuring it out. Repeat the flat / pointed-and-firm pressing procedure from the actual patch.*
+<br />*I peel the correct backing off of the cover. You may waste one figuring it out. Repeat the flat / pointed-and-firm pressing procedure from the actual patch.*<br /><br />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/e17b0431-60e8-4308-a764-d175d6df2192" />
-<br />*The completed work will look like this. The robot’s stance should appear happy, but not uppity. Damned robots.*
+<br />*The completed work will look like this. The robot’s stance should appear happy, but not uppity. Damned robots.*<br /><br />
 
 ## Conclusion
 
