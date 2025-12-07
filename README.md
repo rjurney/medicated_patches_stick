@@ -1,6 +1,6 @@
 # Make Medicated Adhesive Patches Stick. Period.
 
-This post outlines a foolproof method [given to me by a hospice nurse but useful to me for chronic pain] for ensuring that medicated patches stick to… people like me to whom they will not stick :) I will try to avoid the use of the words ‘hairy’, ‘scaly’, ‘sweaty’ or ‘oily’ for the rest of this post, but as the instructional images may show… these things can be a factor. My own experience is with the Butrans patch for chronic pain, so the images in this post show a larger patch.
+*Are you struggling to make the Fentanyl patch, Buprenorphine patch, nicotine patch, clonidine patch or chronic pain patch stick?* This post outlines a foolproof method [given to me by a hospice nurse but useful to me for chronic pain] for ensuring that medicated patches stick to… people like me to whom they will not stick :) I will try to avoid the use of the words ‘hairy’, ‘scaly’, ‘sweaty’ or ‘oily’ for the rest of this post, but as the instructional images may show… these things can be a factor. My own experience is with the Butrans patch for chronic pain, so the images in this post show a larger patch.
 
 Note: this post originally appeared on the [Data Syndrome Blog](https://blog.datasyndrome.com/make-medicated-adhesive-patches-stick-period-4e9720536f5).
 
