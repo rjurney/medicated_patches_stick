@@ -10,9 +10,8 @@ What am I doing writing it then? Hospice. I’ve been a caretaker in a difficult
 
 ## Wha? Why won’t a patch stick to you?
 
-<img width="767" height="169" alt="image" src="https://github.com/user-attachments/assets/c86a2069-9cf2-4fbb-b7da-7c838f079bf8" />
-<br /><br />
-<center><i>Sometimes there seems no good place to place a medicated patch :(</i></center>
+![Patch sites: upper arm, upper chest, upper back, side of chest](https://github.com/user-attachments/assets/c86a2069-9cf2-4fbb-b7da-7c838f079bf8)
+*Sometimes there seems no good place to place a medicated patch :(*
 <br /><br />
 
 Despite being licensed under expensive patents, medicated patch mechanisms aren’t effective for everyone. Reasons a patch may not stick to you include:
